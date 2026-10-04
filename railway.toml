@@ -3,3 +3,6 @@
 
 [build]
 builder = "RAILPACK"
+
+[deploy]
+root = "public"
