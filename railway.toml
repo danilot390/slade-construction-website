@@ -1,0 +1,5 @@
+# Configure the Railway service Root Directory as /dark/public.
+# The config file lives in /dark, while the static site entry point is in public/.
+
+[build]
+builder = "RAILPACK"
