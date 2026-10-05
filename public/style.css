@@ -215,7 +215,7 @@ a.password:hover {
   position: fixed;
   top: 0;
   width: 100%;
-  z-index: 99999;
+  z-index: 1045;
   transition: background 0.3s ease-out;
 }
 
